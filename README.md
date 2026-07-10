@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rajashre%20Rajesware&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20MySQL&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rajashre%20Rajesware%20R%20B&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20MySQL&descAlignY=62&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%7C+React+%7C+MySQL;250%2B+CodeKata+Problems+Solved;Open+to+Fresher+SDE+Roles+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%7C+React+%7C+MySQL;Open+to+Fresher+SDE+Roles+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,29 +10,13 @@
 
 ### 💻 About Me
 
-```java
-class Rajashre {
-    String name = "Rajashre Rajesware R B";
-    String location = "Namakkal, Tamil Nadu, India";
-    String degree = "B.E. Computer Science and Engineering";
-
-    String[] stack = {
-        "Java", "Spring Boot", "Spring Security", "JWT",
-        "Hibernate/JPA", "MySQL", "React", "Thymeleaf",
-        "HTML", "CSS3", "JavaScript", "Git", "Docker"
-    };
-
-    String[] currentlyLearning = {
-"Spring Security", "REST APIs", "Hibernate", "SQL Optimization", "DSA"
-    };
-
-    String funFact = "Solved 250+ CodeKata problems for the love of clean logic!";
-
-    String motto() {
-        return "Building secure, scalable web apps — one REST API at a time.";
-    }
-}
-```
+- 🎓 **B.E. Computer Science and Engineering** graduate (2025) from Muthayammal Engineering College, Rasipuram
+- 💻 **Java Full Stack Developer** with hands-on experience building secure web apps using Spring Boot, Spring Security, JWT, Hibernate/JPA, React, and MySQL
+- 🔐 Comfortable across the stack — from REST API design and authentication to database optimization and CRUD architecture
+- 🧩 Solved **250+ CodeKata problems**, sharpening my analytical and problem-solving skills
+- 📍 Based in Namakkal, Tamil Nadu, India
+- 📚 Currently deepening my knowledge of System Design, Cloud Deployment, and Microservices
+- 🎯 Actively looking for **Fresher Software Engineer / Java Full Stack Developer** roles — let's connect!
 
 <br clear="right"/>
 
@@ -147,6 +131,8 @@ class Rajashre {
 ```
 
 ### 📫 Connect with Me
+
+📧 **Email:** rajashreravikumar@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-b-rajashre-rajesware/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajashreravikumar@gmail.com)
